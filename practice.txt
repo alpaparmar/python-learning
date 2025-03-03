@@ -1,0 +1,8 @@
+Hi Everyone
+I am learning Python
+I am enjoying
+I will become a Python Developer
+Hi Everyone
+I am learning JavaScript
+I am enjoying
+I will become a JavaScript Developer
